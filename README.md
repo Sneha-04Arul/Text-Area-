@@ -38,4 +38,11 @@ https://your-demo-link-here *(Add your live demo link if hosted on GitHub Pages 
 ---
 
 ## 🗂️ Project Structure
+📁 Real-Time-Character-Counter
+│
+├── index.html # Main HTML file containing structure and script
+├── style.css # (Optional) You can separate styling here
+├── script.js # (Optional) You can separate JavaScript logic here
+└── README.md # Project documentation
+
 
